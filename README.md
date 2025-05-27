@@ -1,0 +1,3 @@
+# Prediction-of-Home-Appliance-usage
+Built a predictive model using LSTM to forecast home appliance energy use from time-series household data, achieving appreciable accuracy and providing insights to improve residential energy efficiency and optimize consumption patterns.
+Developed a predictive model using [Python, TensorFlow, scikit-learn] to forecast household appliance energy consumption based on time-series data. Achieved over 90% prediction accuracy, enabling valuable insights into energy efficiency and usage patterns in residential settings. The model helps identify optimization opportunities to reduce energy waste and improve household energy management.
